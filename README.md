@@ -1,9 +1,9 @@
-# Fyslide for Mac — releases
+# Fyslide — releases
 
-Signed and notarized DMG downloads and release notes. Binaries only; the source is not public.
+Downloads and release notes for the Fyslide desktop app (macOS; Windows Beta coming). Binaries only; the source is not public.
 
-- Download page: https://fyslide-website.vercel.app/download
-- Apple Silicon: `Fyslide-<version>-arm64.dmg` · Intel: `Fyslide-<version>-x64.dmg`
+- Download page: https://fyslide.com/download
+- macOS, Apple Silicon: `Fyslide-<version>-arm64.dmg` · Intel: `Fyslide-<version>-x64.dmg` (signed and notarized by Apple)
 - `SHA256SUMS` lists the checksums; `latest.json` is read by the app's update check.
 
-Fyslide needs a license: https://fyslide-website.vercel.app/pricing
+Fyslide needs a license (one license per device): https://fyslide.com/pricing
